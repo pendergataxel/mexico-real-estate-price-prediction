@@ -1,0 +1,17 @@
+# Data files (keep raw CSVs out of GitHub)
+data/
+*.csv
+
+# Jupyter checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
+
+# Virtual environments (if any)
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
